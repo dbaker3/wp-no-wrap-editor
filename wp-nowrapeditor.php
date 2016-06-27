@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: No-Wrap Editor
-Plugin URI: https://github.com/dbaker3/wpnowrapeditor/
+Plugin URI: https://github.com/dbaker3/wp-no-wrap-editor/
 Description: Turns off word wrapping in text editor
 Version: 1.0
 Author: David Baker - Milligan College
